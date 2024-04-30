@@ -162,8 +162,8 @@
         "image": "https://i.ibb.co/gZRvh6b/24.jpg" 
     },
     {
-        "latitude": -7.13760, 
-        "longitude": 110.57510 ,  
+        "latitude": -8.136813258683707,  
+        "longitude": 110.5741085800298  ,
         "value": 1 ,
         "marker": "Pantai Watukodok\nTanggal: 15 Oktober 2022\n14:52 WIB",
         "image": "https://i.ibb.co/1rKPGY9/25.jpg" 
@@ -232,276 +232,94 @@
         "image": "https://i.ibb.co/q77wfSN/34.jpg"
     },
     {
-        "latitude": -7.71946, 
-        "longitude": 110.75281 ,  
+        "latitude": -7.2024940338183026, 
+        "longitude": 110.39008840987631 ,
         "value": 1 ,
         "marker": "Sidomukti\nTanggal: 21 Desember 2022\n22:18 WIB",
         "image": "https://i.ibb.co/CnwnxGt/35.jpg"
     },
     {
-        "latitude": -7.67827, 
-        "longitude": 110.63573 ,  
+        "latitude": -7.689671748140506,  
+        "longitude": 109.63264483654591  ,
         "value": 1 ,
         "marker": "Kuwayuhan\nTanggal: 21 Desember 2022\n22:27 WIB",
         "image": "https://i.ibb.co/F0xHdCm/36.jpg"
     },
     {
-        "latitude": -7.62220, 
-        "longitude": 110.31015 ,  
+        "latitude": -7.6308921440708435, 
+        "longitude": 109.23564501365071 ,
         "value": 1 ,
         "marker": "Kroya\nTanggal: 3 November 2022\n19:51 WIB",
         "image": "https://i.ibb.co/vc80p98/38.jpg"
     },
     {
-        "latitude": -7.40369, 
-        "longitude": 110.24556 ,  
+        "latitude": -7.402639649869329, 
+        "longitude": 109.24572660520695 ,  
         "value": 1 ,
         "marker": "Universitas Jendral Soedirman\nTanggal: 12 Desember 2022\n07:10 WIB",
         "image": "https://i.ibb.co/82hf7Jp/39.jpg"
     },
     {
-        "latitude": -7.28561, 
-        "longitude": 110.02958 ,  
+        "latitude": -7.258474263767461,  
+        "longitude": 108.97371728453811 ,  
         "value": 1 ,
         "marker": "Bumiayu\nTanggal: 27 September 2022\n17:15 WIB",
         "image": "https://i.ibb.co/G2jQQQZ/40.jpg"
     },
     {
-        "latitude": -7.73473, 
-        "longitude": 110.53927 ,  
+        "latitude": -6.734428597092608, 
+        "longitude": 108.53897960885104  ,
         "value": 1 ,
         "marker": "SMAN 4 Kota Cirebon\nTanggal: 17 Januari 2022\n10:42 WIB",
         "image": "https://i.ibb.co/9Gxy9rv/43.jpg"
     },
     {
-        "latitude": -7.72879, 
-        "longitude": 110.54837 ,  
+        "latitude": -6.729007034970459, 
+        "longitude": 108.54785938131683  ,
         "value": 1 ,
         "marker": "Sunyaragi\nTanggal: 17 Juli 2023\n19:42 WIB",
         "image": "https://i.ibb.co/26C69f7/41.jpg"
     },
     {
-        "latitude": -7.73715, 
-        "longitude": 110.53465 ,  
+        "latitude": -6.73804507032193, 
+        "longitude": 108.5369614800153 ,  
         "value": 1 ,
         "marker": "Jalan Kandang Perahu\nTanggal: 18 November 2022\n20:52 WIB",
         "image": "https://i.ibb.co/yBRGMdQ/42.jpg"
     },
     {
-        "latitude": -7.73715, 
-        "longitude": 110.53460 ,  
+        "latitude": -6.73804507032193, 
+        "longitude": 108.5369614800153 ,  
         "value": 1 ,
         "marker": "Jalan Kandang Perahu\nTanggal: 2 Januari 2023\n16:09 WIB",
         "image": "https://i.ibb.co/d2PkBNb/44.jpg"
     },
     {
-        "latitude": -7.73715, 
-        "longitude": 110.53465 ,  
+        "latitude": -6.73804507032193, 
+        "longitude": 108.5369614800153 ,  
         "value": 1 ,
         "marker": "Jalan Kandang Perahu\nTanggal: 7 Januari 2023\n20:43 WIB",
         "image": "https://i.ibb.co/9rb7FGn/45.jpg"
     },
     {
-        "latitude": -7.74664, 
-        "longitude": 110.527352 ,  
+        "latitude": -6.746403784175032, 
+        "longitude": 108.52855032419463 ,  
         "value": 1 ,
         "marker": "SMPN 11 Kota Cirebon\nTanggal: 1 Januari 2023\n23:46 WIB",
         "image": "https://i.ibb.co/Twpv7pk/46.jpg"
     },
     {
-        "latitude": -7.72025, 
-        "longitude": 110.56935 ,  
+        "latitude": -6.726563251322964,  
+        "longitude": 108.57363382780912 , 
         "value": 1 ,
         "marker": "Lemahwungkuk\nTanggal: 5 Maret 2023\n18:54 WIB",
         "image": "https://i.ibb.co/VWsbgBW/47.jpg"
     },
     {
-        "latitude": -7.70535, 
-        "longitude": 110.55517 ,  
+        "latitude": -6.7050164733315745, 
+        "longitude": 108.55563132419421  ,
         "value": 1 ,
         "marker": "Stasiun Kejaksan\nTanggal: 14 Januari 2023\n10:31 WIB",
         "image": "https://i.ibb.co/cyq1whg/48.jpg"
-    },
-    {
-        "latitude": -7.775582219833323, 
-        "longitude": 110.40341303878685 ,  
-        "value": 1 ,
-        "marker": "Montis Yk\nTanggal: 28 Oktober 2024\n21:24 WIB",
-        "image": "https://i.ibb.co/cCpXnPT/Whats-App-Image-2024-04-30-at-03-10-41.jpg"
-    },
-    {
-        "latitude": -7.762500323206543, 
-        "longitude": 110.42250689671751 ,  
-        "value": 1 ,
-        "marker": "Mato Kopi 2\nTanggal: 26 Agustus 2023\n08:05 WIB",
-        "image": "https://i.ibb.co/bBpL5bF/Whats-App-Image-2024-04-30-at-03-14-16.jpg"
-    },
-    {
-        "latitude": -7.772953828633446, 
-        "longitude": 110.37107951792953 ,  
-        "value": 1 ,
-        "marker": "Warmindo Manis Lor Sendowo\nTanggal: 29 April 2024\n07:37 WIB",
-        "image": "https://i.ibb.co/tXKsfvv/Whats-App-Image-2024-04-30-at-03-17-14.jpg"
-    },
-    {
-        "latitude": -7.758017987136819, 
-        "longitude": 110.37719807608876 ,  
-        "value": 1 ,
-        "marker": "Warmindo Maharasa Pogung\nTanggal: 1 April 2024\n01:56 WIB",
-        "image": "https://i.ibb.co/WVP1KtM/Whats-App-Image-2024-04-30-at-03-18-42.jpg"
-    },
-    {
-        "latitude": -7.762522316618594, 
-        "longitude": 110.36272306287712 ,  
-        "value": 1 ,
-        "marker": "Angkringan Kanca Dhewek\nTanggal: 1 Maret 2024\n18:12 WIB",
-        "image": "https://i.ibb.co/V99JF00/Whats-App-Image-2024-04-30-at-03-22-52.jpg"
-    },
-    {
-        "latitude": -7.781057864310613, 
-        "longitude": 110.36608954469764 ,  
-        "value": 1 ,
-        "marker": "Lange Cafe\nTanggal: 13 February 2024\n00:20 WIB",
-        "image": "https://i.ibb.co/nCMDbtw/Whats-App-Image-2024-04-30-at-03-25-42.jpg"
-    },
-    {
-        "latitude": -7.756316389552112, 
-        "longitude": 110.36974957001536 ,  
-        "value": 1 ,
-        "marker": "Burjo Murni Monjali\nTanggal: 9 February 2024\n20:20 WIB",
-        "image": "https://i.ibb.co/QfQxY3D/Whats-App-Image-2024-04-30-at-03-29-42-1.jpg"
-    },
-    {
-        "latitude": -7.776238367632438, 
-        "longitude": 110.38350049998637 ,  
-        "value": 1 ,
-        "marker": "GOR UNY\nTanggal: 5 November 2023\n15:03 WIB",
-        "image": "https://i.ibb.co/6nvhNqg/Whats-App-Image-2024-04-30-at-07-52-56.jpg"
-    },
-    {
-        "latitude": -7.7210045090682895, 
-        "longitude": 110.36165240579672 ,  
-        "value": 1 ,
-        "marker": "Sleman City Hall\nTanggal: 10 July 2023\n22:20 WIB",
-        "image": "https://i.ibb.co/VQ1FhXD/Whats-App-Image-2024-04-30-at-07-57-35.jpg"
-    },
-    {
-        "latitude": -7.774699969126327, 
-        "longitude": 110.38060306122513 ,  
-        "value": 1 ,
-        "marker": "DEB SV UGM\nTanggal: 2 May 2023\n16:06 WIB",
-        "image": "https://i.ibb.co/r5b84t5/Whats-App-Image-2024-04-30-at-08-03-48.jpg"
-    },
-    {
-        "latitude": -7.771910298347385, 
-        "longitude": 110.38309336487093 ,  
-        "value": 1 ,
-        "marker": "Burjo Borneo\nTanggal: 2 May 2023\n16:05 WIB",
-        "image": "https://i.ibb.co/b1cJX9T/Whats-App-Image-2024-04-30-at-08-05-57.jpg"
-    },
-    {
-        "latitude": -7.770533921269695, 
-        "longitude": 110.38206521858476 ,  
-        "value": 1 ,
-        "marker": "Lembah UGM\nTanggal: 16 May 2023\n15:48 WIB",
-        "image": "https://i.ibb.co/wWGbwQD/Whats-App-Image-2024-04-30-at-08-10-06.jpg"
-    },
-    {
-        "latitude": -7.772729007959977, 
-        "longitude": 110.37550545494163 ,  
-        "value": 1 ,
-        "marker": "Food Court UGM\nTanggal: 22 June 2023\n09:39 WIB",
-        "image": "https://i.ibb.co/w7fDrj1/Whats-App-Image-2024-04-30-at-08-15-05.jpg"
-    },
-    {
-        "latitude": -7.76795516431129, 
-        "longitude": 110.37845176423023 ,  
-        "value": 1 ,
-        "marker": "Balairung UGM\nTanggal: 22 June 2023\n10:57 WIB",
-        "image": "https://i.ibb.co/vxzVJgd/Whats-App-Image-2024-04-30-at-08-17-50.jpg"
-    },
-    {
-        "latitude": -7.774994004274717, 
-        "longitude": 110.37432680141411 ,  
-        "value": 1 ,
-        "marker": "DTK SV UGM\nTanggal: 13 September 2023\n10:26 WIB",
-        "image": "https://i.ibb.co/VMpk565/Whats-App-Image-2024-04-30-at-08-22-01.jpg"
-    },
-    {
-        "latitude": -7.770720998760412, 
-        "longitude": 110.38245873189815 ,  
-        "value": 1 ,
-        "marker": "Lapangan Baseball UGM\nTanggal: 15 November 2023\n15:00 WIB",
-        "image": "https://i.ibb.co/SX4Mq2Z/Whats-App-Image-2024-04-30-at-08-25-21.jpg"
-    },
-    {
-        "latitude": -7.76375861819827, 
-        "longitude": 110.39328650028969 ,  
-        "value": 1 ,
-        "marker": "Mie Gacoan Gejayan\nTanggal: 16 November 2023\n00:01 WIB",
-        "image": "https://i.ibb.co/1R87MK4/Whats-App-Image-2024-04-30-at-08-27-29.jpg"
-    },
-    {
-        "latitude": -7.756230738516697, 
-        "longitude": 110.37737644001899 ,  
-        "value": 1 ,
-        "marker": "Burjo Malatax\nTanggal: 19 December 2023\n13:46 WIB",
-        "image": "https://i.ibb.co/BT0pYkT/Whats-App-Image-2024-04-30-at-08-31-45.jpg"
-    },
-    {
-        "latitude": -7.789500689909631, 
-        "longitude": 110.36343701380322,  
-        "value": 1 ,
-        "marker": "Stasiun Tugu\nTanggal: 9 November 2023\n11:25 WIB",
-        "image": "https://i.ibb.co/Rpgkmqg/Whats-App-Image-2024-04-30-at-16-49-00.jpg"
-    },
-    {
-        "latitude": -7.781409962986934, 
-        "longitude": 110.35134936042219,  
-        "value": 1 ,
-        "marker": "Jl Godean\nTanggal: 28 March 2024\n16:43 WIB",
-        "image": "https://i.ibb.co/9Y0rQHz/Whats-App-Image-2024-04-30-at-16-53-09-1.jpg"
-    },
-    {
-        "latitude": -7.809083647130704, 
-        "longitude": 110.32032757629908,  
-        "value": 1 ,
-        "marker": "Universitas Muhammadiyah Yogyakarta\nTanggal: 18 Agustus 2023\n17:21 WIB",
-        "image": "https://i.ibb.co/DGfbHhd/Whats-App-Image-2024-04-30-at-17-13-16.jpg"
-    },
-    {
-        "latitude": -7.769469775315507, 
-        "longitude": 110.3732612497541,  
-        "value": 1 ,
-        "marker": "Masjid Mardliyah\nTanggal: 9 June 2023\n18:15 WIB",
-        "image": "https://i.ibb.co/PZ7Gdv3/Whats-App-Image-2024-04-30-at-17-18-11.jpg"
-    },
-    {
-        "latitude": -7.764217322531688, 
-        "longitude": 110.36192252667377,  
-        "value": 1 ,
-        "marker": "Mandiri JAMAL\nTanggal: 25 Oktober 2023\n09:15 WIB",
-        "image": "https://i.ibb.co/zNgs8gh/Whats-App-Image-2024-04-30-at-17-21-00.jpg"
-    },
-    {
-        "latitude": -7.592412307564008, 
-        "longitude": 110.42696996768382,  
-        "value": 1 ,
-        "marker": "Kaliurang\nTanggal: 17 Oktober 2023\n08:00 WIB",
-        "image": "https://i.ibb.co/TBYMZ31/Whats-App-Image-2024-04-30-at-17-24-39.jpg"
-    },
-    {
-        "latitude": -7.753365095261899, 
-        "longitude": 110.3604523086364,  
-        "value": 1 ,
-        "marker": "Jogja City Mall\nTanggal: 1 May 2023\n15:30 WIB",
-        "image": "https://i.ibb.co/C9xcdpW/Whats-App-Image-2024-04-30-at-17-31-30.jpg"
-    },
-    {
-        "latitude": -7.759609318948167, 
-        "longitude": 110.39899684176973,  
-        "value": 1 ,
-        "marker": "Hartono Mall\nTanggal: 27 Oktober 2023\n20:20 WIB",
-        "image": "https://i.ibb.co/wRz3byM/Whats-App-Image-2024-04-30-at-17-49-08.jpg"
     }
 ]
