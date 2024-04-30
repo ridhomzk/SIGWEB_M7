@@ -15,41 +15,6 @@
         "image": "https://i.ibb.co/zhndtLk/2.jpg" 
     },
     {
-        "latitude": -7.78295, 
-        "longitude": 110.36720,  
-        "value": 1 ,
-        "marker": "Tugu Yogyakarta\nTanggal: 6 November 2022\n19:05 WIB",
-        "image": "https://i.ibb.co/3sx6VqH/3.jpg" 
-    },
-    {
-        "latitude": -7.78290, 
-        "longitude": 110.36731,  
-        "value": 1 ,
-        "marker": "Tugu Yogyakarta\nTanggal: 18 Februari 2023\n18:03 WIB",
-        "image": "https://i.ibb.co/09zLh4d/4.jpg" 
-    },
-    {
-        "latitude": -7.79182, 
-        "longitude": 110.39312,  
-        "value": 1 ,
-        "marker": "Baciro Yogyakarta\nTanggal: 3 April 2023\n17:45 WIB",
-        "image": "https://i.ibb.co/FgbRTRC/5.jpg" 
-    },
-    {
-        "latitude": -7.78813, 
-        "longitude": 110.37810,  
-        "value": 1 ,
-        "marker": "Yogyakarta Kotabaru\nTanggal: 10 Desember 2022\n20:57 WIB",
-        "image": "https://i.ibb.co/sWk3zcx/6.jpg" 
-    },
-    {
-        "latitude": -7.77529, 
-        "longitude": 110.38065,  
-        "value": 1 ,
-        "marker": "Wisdom Park\nTanggal: 14 Maret 2023\n15:22 WIB",
-        "image": "https://i.ibb.co/19RkGTz/7.jpg" 
-    },
-    {
         "latitude": -7.7702704294526646, 
         "longitude": 110.34412078679742,  
         "value": 1 ,
@@ -503,5 +468,5 @@
         "value": 1 ,
         "marker": "Hartono Mall\nTanggal: 27 Oktober 2023\n20:20 WIB",
         "image": "https://i.ibb.co/wRz3byM/Whats-App-Image-2024-04-30-at-17-49-08.jpg"
-    }
+}
 ]
